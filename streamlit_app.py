@@ -1,7 +1,7 @@
 import streamlit
-import pandas
 import requests
 import snowflake.connector
+import pandas
 from urllib.error import URL Error
 
 streamlit.title ('My first Python work!')
